@@ -1,0 +1,9 @@
+User-agent: *
+
+Disallow: /about/
+
+Disallow: /products/
+
+Disallow: /contact/
+
+Sitemap: http://benextra.concordsoft.com/sitemap.xml
